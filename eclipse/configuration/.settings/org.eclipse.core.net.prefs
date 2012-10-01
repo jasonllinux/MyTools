@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.core.net.hasMigrated=true
+proxyData/HTTP/hasAuth=false
+proxyData/HTTP/host=localhost
+proxyData/HTTP/port=8087
+proxyData/HTTPS/hasAuth=false
+proxyData/HTTPS/host=localhost
+proxyData/HTTPS/port=8087
+systemProxiesEnabled=false
